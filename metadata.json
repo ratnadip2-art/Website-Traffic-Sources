@@ -1,0 +1,6 @@
+{
+  "name": "Website Traffic Sources Analyzer",
+  "description": "An elegant, interactive dashboard and real-time simulator to analyze website traffic sources, user behavior, UTM campaigns, and channel performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
